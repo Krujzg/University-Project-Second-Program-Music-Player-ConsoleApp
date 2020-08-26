@@ -1,0 +1,3 @@
+komolyzene;Pjotr Iljics Csajkovszkíj;Hattyúk tava;300;99997;3
+konnyuzene;Magna Cum Laude;Pálinka Dal;272;99999;3
+sajatzene;401;2

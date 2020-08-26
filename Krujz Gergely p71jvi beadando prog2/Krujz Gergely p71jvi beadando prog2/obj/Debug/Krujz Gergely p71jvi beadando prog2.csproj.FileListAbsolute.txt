@@ -1,0 +1,6 @@
+c:\users\komol\documents\visual studio 2015\Projects\Krujz Gergely p71jvi beadando prog2\Krujz Gergely p71jvi beadando prog2\bin\Debug\Krujz Gergely p71jvi beadando prog2.exe.config
+C:\Users\komol\Documents\Visual Studio 2015\Projects\Krujz Gergely p71jvi beadando prog2\Krujz Gergely p71jvi beadando prog2\bin\Debug\Krujz Gergely p71jvi beadando prog2.exe
+C:\Users\komol\Documents\Visual Studio 2015\Projects\Krujz Gergely p71jvi beadando prog2\Krujz Gergely p71jvi beadando prog2\bin\Debug\Krujz Gergely p71jvi beadando prog2.pdb
+C:\Users\komol\Documents\Visual Studio 2015\Projects\Krujz Gergely p71jvi beadando prog2\Krujz Gergely p71jvi beadando prog2\obj\Debug\Krujz Gergely p71jvi beadando prog2.csprojResolveAssemblyReference.cache
+C:\Users\komol\Documents\Visual Studio 2015\Projects\Krujz Gergely p71jvi beadando prog2\Krujz Gergely p71jvi beadando prog2\obj\Debug\Krujz Gergely p71jvi beadando prog2.exe
+C:\Users\komol\Documents\Visual Studio 2015\Projects\Krujz Gergely p71jvi beadando prog2\Krujz Gergely p71jvi beadando prog2\obj\Debug\Krujz Gergely p71jvi beadando prog2.pdb

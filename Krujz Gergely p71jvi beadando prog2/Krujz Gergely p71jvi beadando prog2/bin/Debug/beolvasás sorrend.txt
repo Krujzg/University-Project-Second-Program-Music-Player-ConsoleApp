@@ -1,0 +1,7 @@
+komolyzene(tipus);Pjotr Iljics Csajkovszkíj(zeneszerző);Hattyúk tava(cim);300(idotartam,sec);1000000(tárhely,mb);4(értékelés)
+konnyuzene(tipus);Magna Cum Laude(eloado);Pálinka Dal(cim);272;99999(tárhely,mb);4(értékelés)
+sajatzene(tipus);401((idotartam, sec);2(méret,mb)
+
+komolyzene;Pjotr Iljics Csajkovszkíj;Hattyúk tava;300;100;4
+konnyuzene;Magna Cum Laude;Pálinka Dal;272;999;3
+sajatzene;401;99999
